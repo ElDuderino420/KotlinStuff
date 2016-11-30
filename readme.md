@@ -68,3 +68,6 @@ override fun query(uri: Uri?, projection: Array<out String>?,
         return cursor
     }
 ```
+
+We followed this guide on how to make the content provider and its functions:
+https://www.sitepoint.com/using-androids-content-providers-manage-app-data/
